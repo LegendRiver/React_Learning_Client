@@ -1,0 +1,3 @@
+
+export const DEFAULT_DATE_FORMAT = 'YYYY-MM-DD';
+export const TOKEN_FAILED_CODE = 11015;

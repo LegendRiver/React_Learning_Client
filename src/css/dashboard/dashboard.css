@@ -1,0 +1,33 @@
+.dashboard-root-div
+{
+    width:100%;
+    min-height:100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background: whitesmoke;
+}
+
+.dashboard-row-div
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-radius: 4px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ccc;
+    /*background: whitesmoke;*/
+}
+
+.dashboard-image-div
+{
+    margin: 20px 50px;
+    padding: 20px;
+    background: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 8px 6px -6px rgba(0,0,0,0.8);
+    cursor: pointer;
+}
